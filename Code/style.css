@@ -24,6 +24,8 @@
 }
 
 .vidContainer {
+    margin: 0 auto;
+    margin-bottom: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -33,7 +35,15 @@
     max-width: 50%;
     max-height: 50%;
     margin: 0 auto;
-    margin-top: 50px;
+    margin-top: 75px;
     margin-bottom: 50px;
     object-fit: auto;
+}
+
+.SpotifyContainer {
+    margin: 0 auto;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

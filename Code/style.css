@@ -2,7 +2,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    
 }
 
 .singleCol {
@@ -14,10 +13,27 @@
     font-size: 150%;
     color: black;
     margin-top: 10px;
+    margin-bottom: 50px;
 }
 
 .showtable {
     display: table;
     margin: 0 auto;
+    margin-bottom: 50px;
+
+}
+
+.vidContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.CarouselSizeContainer {
+    max-width: 50%;
+    max-height: 50%;
+    margin: 0 auto;
     margin-top: 50px;
+    margin-bottom: 50px;
+    object-fit: auto;
 }

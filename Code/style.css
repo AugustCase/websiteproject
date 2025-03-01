@@ -13,4 +13,11 @@
 .social-media-icons a {
     font-size: 150%;
     color: black;
+    margin-top: 10px;
+}
+
+.showtable {
+    display: table;
+    margin: 0 auto;
+    margin-top: 50px;
 }

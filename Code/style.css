@@ -58,3 +58,14 @@
     margin-right: 50px;
     
 }
+
+.MusicContainer {
+    margin: 0 auto;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pContainer {
+    margin-bottom: 100px;   
+}

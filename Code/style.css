@@ -69,3 +69,11 @@
 .pContainer {
     margin-bottom: 100px;   
 }
+
+.AboutContainer {
+    margin: 0 auto;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
